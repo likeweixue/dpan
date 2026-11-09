@@ -1,4 +1,4 @@
-# VortexPan
+# DPan
 
 一个轻量、好看、够快的 **PHP + MySQL 私有网盘系统**。零依赖、无 Composer、单入口架构，丢到服务器就能跑。
 
